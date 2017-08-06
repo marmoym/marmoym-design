@@ -1,0 +1,48 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9882352941176471,
+        "green": 0.4627450980392157,
+        "red": 0.5450980392156863
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.956499787414966,
+        "green": 0.956499787414966,
+        "red": 0.956499787414966
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9921568627450981,
+        "green": 0.9921568627450981,
+        "red": 0.9921568627450981
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "476B9DD9-8361-442D-AACB-2EF74B7758F4",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  }
+}
