@@ -80,6 +80,26 @@
     {
       "class": "symbolInstance",
       "id": "46439224-D8FE-4C81-AE35-C2DFA7D0C72B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A41C5DAA-DBD2-456E-81F3-2BB0D265EFB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7903F574-A400-477B-890A-53920367E7DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E248DDF-A87C-49BB-BDF1-03826E1EF4F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5A9C6A0-9D43-46C3-B795-61B250CE01DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "257564A7-0290-4897-BB64-E326C2B78BAD"
     }
   ],
   "name": "LoginPage",

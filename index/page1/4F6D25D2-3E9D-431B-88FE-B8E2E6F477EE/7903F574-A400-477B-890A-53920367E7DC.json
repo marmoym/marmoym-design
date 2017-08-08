@@ -1,7 +1,6 @@
 {
-  "_class": "bitmap",
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "8972BD5F-F482-4EEB-A165-016EB04AFA5F",
+  "_class": "symbolInstance",
+  "do_objectID": "7903F574-A400-477B-890A-53920367E7DC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,29 +10,26 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
+    "constrainProportions": false,
     "height": 42,
-    "width": 45,
-    "x": 288,
-    "y": 467
+    "width": 290,
+    "x": 15,
+    "y": 376
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/dd33786a38f1547f0f0e846fa376d02f62971490",
-    "_ref_class": "MSImageData"
-  },
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "스크린샷 2017-08-08 오후 10.09.09",
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "login_twitter",
   "nameIsFixed": false,
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -43,5 +39,7 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "C9E03444-6858-48DC-BA16-2D9C057B238E",
+  "verticalSpacing": 0
 }

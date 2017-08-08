@@ -69,28 +69,24 @@
       "id": "25F18349-8D69-4C59-A421-151C8B2C4573"
     },
     {
-      "class": "bitmap",
-      "id": "5D171B44-6B4A-4DE5-9AE0-D86F2BC120B4"
+      "class": "symbolMaster",
+      "id": "B1E0B54C-0051-40EF-8803-1D1C8925F070"
     },
     {
-      "class": "bitmap",
-      "id": "8972BD5F-F482-4EEB-A165-016EB04AFA5F"
+      "class": "symbolMaster",
+      "id": "359DDDAA-ABF0-4CC8-8CAF-756B38452769"
     },
     {
-      "class": "bitmap",
-      "id": "05A79C51-5D2D-47BE-A6FC-366A5EFDF8B5"
+      "class": "symbolMaster",
+      "id": "E7B93D13-AA17-41CF-97A5-DE427B6CF36A"
     },
     {
-      "class": "artboard",
-      "id": "F0C47F2A-B65B-49EC-87C8-2D04E44A6071"
+      "class": "symbolMaster",
+      "id": "441E3B65-F932-4C4B-A5F7-704569A6788D"
     },
     {
-      "class": "artboard",
-      "id": "97FA615E-4CDD-4B1E-BF54-8F2F83BC00C2"
-    },
-    {
-      "class": "artboard",
-      "id": "87295B7D-4D13-4C16-848D-6D336E29FC69"
+      "class": "symbolMaster",
+      "id": "B31323B8-CB0E-4FDA-938B-68EFA568FDC9"
     }
   ],
   "name": "symbol_login",

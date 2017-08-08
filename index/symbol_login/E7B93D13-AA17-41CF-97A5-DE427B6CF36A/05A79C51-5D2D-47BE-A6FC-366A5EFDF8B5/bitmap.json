@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "5D171B44-6B4A-4DE5-9AE0-D86F2BC120B4",
+  "do_objectID": "05A79C51-5D2D-47BE-A6FC-366A5EFDF8B5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,12 +17,12 @@
     "constrainProportions": true,
     "height": 42,
     "width": 45,
-    "x": 288,
-    "y": 408
+    "x": -1,
+    "y": 0
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/9c43f49f3ce38b54c89c36073e69d732669798d3",
+    "_ref": "images/baf26add447fe51045043a01d26d928ade175474",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "스크린샷 2017-08-08 오후 10.08.24",
-  "nameIsFixed": false,
+  "name": "icon_sns_kakaotalk",
+  "nameIsFixed": true,
   "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
   "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,

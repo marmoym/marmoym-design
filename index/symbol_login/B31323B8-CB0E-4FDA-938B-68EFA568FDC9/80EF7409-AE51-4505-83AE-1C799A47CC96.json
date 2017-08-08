@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "46439224-D8FE-4C81-AE35-C2DFA7D0C72B",
+  "do_objectID": "80EF7409-AE51-4505-83AE-1C799A47CC96",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55,
-    "width": 290,
-    "x": 15,
-    "y": 248
+    "height": 18,
+    "width": 24,
+    "x": 91,
+    "y": 22
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,11 +24,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
-  "name": "login_loginbtn",
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "txt_bar",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,6 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "B3F3D9E9-F817-4EB0-810C-CBDB03AA60DD",
+  "symbolID": "E3A4FF60-B3D8-4E68-BDFB-B3EA0A06340D",
   "verticalSpacing": 0
 }
