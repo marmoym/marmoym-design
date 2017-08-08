@@ -1,13 +1,14 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.956499787414966,
-    "green": 0.956499787414966,
-    "red": 0.956499787414966
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
-  "do_objectID": "142605E3-48D8-4C08-9258-31E31817C6CD",
+  "changeIdentifier": 0,
+  "do_objectID": "F5C6A770-7643-4C2E-B4AA-CF4B363312F6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,12 +21,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 850,
-    "width": 320,
-    "x": 2853,
-    "y": -77
+    "height": 240,
+    "width": 250,
+    "x": -76,
+    "y": -2
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -34,36 +35,49 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "C0552B4A-A563-432F-8BDA-8EDE9824B3AE"
+      "class": "shapeGroup",
+      "id": "BA85B886-1FA7-44D6-B7A5-DA2FB169B7D6"
     },
     {
       "class": "symbolInstance",
-      "id": "41C95BC7-758E-4B8D-856B-8F8A8B287C62"
+      "id": "C3ADD46C-43B0-47C0-BA93-1D0282F04105"
     },
     {
-      "class": "group",
-      "id": "80E3F76B-04DD-4458-9870-80720B863A3B"
+      "class": "symbolInstance",
+      "id": "28DB8810-38D9-4B26-9CC6-417147554F71"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C3F34BC-8197-46BC-91D0-30BFF29444E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "446C0C08-5462-4702-9AD8-60EF949D5E30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1F492A9-AC3C-49BF-A5F5-3567B1D9A5A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9FC932D-802F-4DC6-ABDA-EF37C560826C"
     },
     {
       "class": "shapeGroup",
-      "id": "A872FB20-51A8-4F33-A797-314F57736A8F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "695F9B41-3B18-4270-A1F6-A9BFC738E5F3"
+      "id": "71E29E6C-2285-4C04-97A6-9DA5F3B4F0EE"
     }
   ],
-  "name": "HamburgerMenu",
-  "nameIsFixed": true,
+  "name": "popup",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,27 +86,10 @@
   "style": {
     "_class": "style",
     "endDecorationType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "BE1D3A89-C7B6-4F80-9FB1-751C1611ACA3",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
