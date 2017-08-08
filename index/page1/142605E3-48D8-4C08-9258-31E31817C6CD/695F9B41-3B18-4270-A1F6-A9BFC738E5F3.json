@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 240,
+    "height": 200,
     "width": 250,
     "x": 35,
-    "y": 152
+    "y": 192
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,10 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 2,
   "name": "popup",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -38,6 +38,28 @@
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.5041570433437935,
+          "green": 0.5041570433437935,
+          "red": 0.5703922193877551
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   },
   "symbolID": "BE1D3A89-C7B6-4F80-9FB1-751C1611ACA3",
