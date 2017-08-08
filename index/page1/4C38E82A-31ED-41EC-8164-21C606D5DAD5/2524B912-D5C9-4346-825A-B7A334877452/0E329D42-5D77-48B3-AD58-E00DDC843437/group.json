@@ -1,6 +1,6 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "28DB8810-38D9-4B26-9CC6-417147554F71",
+  "_class": "group",
+  "do_objectID": "0E329D42-5D77-48B3-AD58-E00DDC843437",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,22 +13,24 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 250,
-    "x": 0,
-    "y": 0
+    "height": 25,
+    "width": 25,
+    "x": 245,
+    "y": 15
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
-  "name": "popup_loginsecurity",
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "462B5824-59CE-4DD2-8FBB-856EF317FD63"
+    }
+  ],
+  "name": "pencil_icon",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,7 +41,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "B2DEFA87-23FE-464B-89A1-38796EF937A8",
-  "verticalSpacing": 0
+  }
 }
