@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 413,
+  "changeIdentifier": 5906,
   "do_objectID": "99346929-9FD8-4783-AEF9-A51B9CDB9AED",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
+    "height": 240,
     "width": 250,
     "x": 600,
-    "y": 18
+    "y": -22
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -70,11 +70,15 @@
     {
       "class": "symbolInstance",
       "id": "C40CD9D2-D369-4B96-AA63-A2004D22AE7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5773C21-5791-4195-937F-2C1BEE80672F"
     }
   ],
   "name": "popup_loggedin",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

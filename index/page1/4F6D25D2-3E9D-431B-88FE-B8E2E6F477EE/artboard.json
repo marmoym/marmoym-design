@@ -26,7 +26,7 @@
     "y": -77
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,6 +52,14 @@
     {
       "class": "symbolInstance",
       "id": "7B8EC241-5C27-47B4-A45A-4ECD5727F2B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1728ADD4-F5C0-4A64-9136-B58FD0236D0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4905D60B-1D63-4CBA-AD05-C46C1CD47CB1"
     },
     {
       "class": "symbolInstance",
@@ -100,6 +108,14 @@
     {
       "class": "symbolInstance",
       "id": "257564A7-0290-4897-BB64-E326C2B78BAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "201EC859-18D3-42C7-A3EB-84F4C02BE2A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A061257F-79D7-4173-84C1-C041007F15F8"
     }
   ],
   "name": "LoginPage",

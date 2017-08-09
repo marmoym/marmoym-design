@@ -167,6 +167,10 @@
     {
       "class": "symbolMaster",
       "id": "DF606265-5A8A-4D2D-8664-B80EF163A5D0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "ACF52174-3362-454B-A3E9-7331C86F5C02"
     }
   ],
   "name": "symbol_icons",
