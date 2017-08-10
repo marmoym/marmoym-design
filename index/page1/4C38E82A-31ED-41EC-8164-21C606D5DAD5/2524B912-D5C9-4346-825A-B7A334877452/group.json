@@ -46,8 +46,8 @@
       "id": "3A78874A-D611-4D23-AA75-D79C1D95A2CD"
     }
   ],
-  "name": "sample_masthead_pane_hamburger",
-  "nameIsFixed": false,
+  "name": "masthead_pane_hamburger",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

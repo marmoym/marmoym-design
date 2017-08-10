@@ -1,6 +1,7 @@
 {
-  "_class": "group",
-  "do_objectID": "D96EBD7A-5EFD-4895-BE82-5A552E36F0B9",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "FA8130D3-B12A-4995-87FE-A4CA2BBD6E92",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,28 +11,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 21,
-    "width": 49,
-    "x": 12,
-    "y": 17
+    "constrainProportions": true,
+    "height": 16.43495306863724,
+    "width": 16.43495306863724,
+    "x": 14,
+    "y": 19
   },
-  "hasClickThrough": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/075bd74b5918f017919f7965d7784fb8f6d1d595",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "text",
-      "id": "EAC2E4FF-0EAC-4903-986C-8D97DFD34A68"
-    }
-  ],
-  "name": "logo_text",
+  "name": "926276-200",
   "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
