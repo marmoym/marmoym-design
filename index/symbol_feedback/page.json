@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "A3B75791-B076-4049-B64E-8FE1AB7D5277",
+  "do_objectID": "9920B0C8-0F91-4F72-8FB6-E32F15F9A6C0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,7 +21,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -586,
+    "base": -446,
     "guides": [
     ]
   },
@@ -34,46 +34,42 @@
   "layers": [
     {
       "class": "symbolMaster",
-      "id": "4DA96062-6D03-4A7A-8A6E-D036902B3E08"
+      "id": "5E98EA0B-2912-4858-AD3C-90A58680F2D2"
     },
     {
       "class": "symbolMaster",
-      "id": "C727C2D0-2D5F-40C5-8B44-4253AC8E2C37"
+      "id": "A1B37FDC-F785-4E3F-A75C-96762EF22992"
     },
     {
       "class": "symbolMaster",
-      "id": "095BB174-A73A-4B78-84E8-2AD680DAB66C"
+      "id": "7FB1FA32-A37D-4581-B381-8EA7AE877433"
     },
     {
       "class": "symbolMaster",
-      "id": "986BCA3B-0119-4D10-B04F-AA44243FFC0A"
+      "id": "1B9FF3D1-13C7-45E8-92EB-3FE12E946BB8"
     },
     {
       "class": "symbolMaster",
-      "id": "AB6F8BE7-A4B1-4E5C-9C72-26E2B22C5116"
+      "id": "6E58B971-6A65-44FF-BAB6-FD6D7F838C7C"
     },
     {
       "class": "symbolMaster",
-      "id": "099FB277-40B2-4E55-9B2D-6EFD6766BD1B"
+      "id": "6E5662FF-BAAC-4EB6-A284-360AF9F3720F"
     },
     {
       "class": "symbolMaster",
-      "id": "FB173D7C-D599-4D1C-A548-A944D3D23166"
+      "id": "33B33D66-1223-4FFA-91C7-BC4D10BD63EE"
     },
     {
       "class": "symbolMaster",
-      "id": "6877E2DB-144A-420D-8CD4-8ECB9D4E4B62"
+      "id": "ED252CC9-7FA0-470A-8CB8-59DD65ECE269"
     },
     {
       "class": "symbolMaster",
-      "id": "06A4C62E-A78C-40AE-B444-9F0D7434DCCB"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "1C0A1316-22F3-4557-A261-E766F0580B61"
+      "id": "A9E05AFA-A786-4F66-B65F-F9FBF1E65EED"
     }
   ],
-  "name": "symbol_join",
+  "name": "symbol_feedback",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -87,7 +83,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -332,
+    "base": -308,
     "guides": [
     ]
   }
