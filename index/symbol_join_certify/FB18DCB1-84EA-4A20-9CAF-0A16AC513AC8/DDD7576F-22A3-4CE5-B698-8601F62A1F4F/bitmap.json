@@ -1,6 +1,7 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "D2975FA4-D9F8-4DF8-99DA-EB9E9065F9B9",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "DDD7576F-22A3-4CE5-B698-8601F62A1F4F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,26 +11,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 636,
-    "width": 320,
+    "constrainProportions": true,
+    "height": 32,
+    "width": 21,
     "x": 0,
-    "y": 125
+    "y": 0
   },
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/335d8e7108ded98841a508e38a7d39386cfed994",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
-  "name": "term_register_pane_type1",
-  "nameIsFixed": false,
+  "name": "phone",
+  "nameIsFixed": true,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -39,7 +43,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "0A62F832-151B-4554-9F46-5DC4860D2E98",
-  "verticalSpacing": 0
+  }
 }

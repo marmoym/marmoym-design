@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "D2975FA4-D9F8-4DF8-99DA-EB9E9065F9B9",
+  "do_objectID": "83F72B51-574A-48C7-A49E-3C7D95BBF5F1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 636,
-    "width": 320,
-    "x": 0,
-    "y": 125
+    "height": 33,
+    "width": 22,
+    "x": 53,
+    "y": 267
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,10 +25,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "term_register_pane_type1",
+  "name": "join_certify_facebook",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,6 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "0A62F832-151B-4554-9F46-5DC4860D2E98",
+  "symbolID": "616EE9D7-8930-473E-BCB7-6FE3F1D7F764",
   "verticalSpacing": 0
 }

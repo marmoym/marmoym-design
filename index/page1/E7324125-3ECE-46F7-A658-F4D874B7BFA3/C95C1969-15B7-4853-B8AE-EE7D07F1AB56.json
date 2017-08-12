@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "D2975FA4-D9F8-4DF8-99DA-EB9E9065F9B9",
+  "do_objectID": "C95C1969-15B7-4853-B8AE-EE7D07F1AB56",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 636,
-    "width": 320,
-    "x": 0,
-    "y": 125
+    "height": 55,
+    "width": 288,
+    "x": 16,
+    "y": 88
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,12 +25,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "term_register_pane_type1",
+  "name": "join_certify_title",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 61,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -40,6 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "0A62F832-151B-4554-9F46-5DC4860D2E98",
+  "symbolID": "45B558CB-9B1D-404A-8F2D-363BAA64610B",
   "verticalSpacing": 0
 }

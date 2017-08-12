@@ -7,7 +7,7 @@
     }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "FBECD4BF-6213-4B7D-A91F-AABDC2BE6BE7",
+  "do_objectID": "9E2BD0FA-06FB-4102-B566-738C36BAD6EF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,9 +22,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 12,
-    "width": 5,
-    "x": 15,
-    "y": 10
+    "width": 4,
+    "x": 12,
+    "y": 90
   },
   "glyphBounds": "{{0, 1}, {3, 8}}",
   "heightIsClipped": false,
@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "1",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -61,5 +61,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

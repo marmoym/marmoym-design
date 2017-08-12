@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "D2975FA4-D9F8-4DF8-99DA-EB9E9065F9B9",
+  "do_objectID": "D0373381-8FD2-496C-9A7F-955CE534132B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 636,
-    "width": 320,
-    "x": 0,
-    "y": 125
+    "height": 16,
+    "width": 95,
+    "x": 113,
+    "y": 213
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,11 +24,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "term_register_pane_type1",
+  "name": "join_certify_ipin_txt",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,6 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "0A62F832-151B-4554-9F46-5DC4860D2E98",
+  "symbolID": "D2F8906E-7650-4A9D-90DB-084B4928B07E",
   "verticalSpacing": 0
 }
