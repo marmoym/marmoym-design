@@ -43,18 +43,62 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "4C7E8895-5D11-46EE-AA8F-95038D0D58E9"
+      "id": "0D08F31A-714F-42BC-8AC7-4203A27513FA"
     },
     {
-      "class": "bitmap",
-      "id": "FA8130D3-B12A-4995-87FE-A4CA2BBD6E92"
+      "class": "symbolInstance",
+      "id": "FB183A39-4E1C-4852-AAB2-E9CB0D061347"
     },
     {
-      "class": "text",
-      "id": "E401E2DC-1DC6-47DA-B416-0401C8D367AB"
+      "class": "symbolInstance",
+      "id": "34F1CFCB-1F3B-4C82-A88D-7B3019B386FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B86DC048-BC4F-4918-AC8D-CF9C0908EC24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54598CE1-B45E-4F0D-944A-3113C368A63C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8548F15E-C172-4F9E-A04E-24D87000B9AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E194114C-976B-4893-AF1A-14518D7A5271"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94732E13-A7E5-4D0A-A5C0-50ABD7316DF4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "217B5577-BE26-46B2-8907-E29DF32ECC1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "91EA9B8F-F851-4B94-A0F5-A11914690D84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40F8E229-5AFD-4F1F-BAC5-D9797E4AD7A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BF32BD7-D35B-4DF2-8261-12DC8EC222D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "372CF495-963F-4E75-99B4-3B0952DB8D2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3679AF76-F5D4-4CBF-B505-F9C409B3EB79"
     }
   ],
-  "name": "HelpPage",
+  "name": "SignIn",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
