@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 8838,
+  "do_objectID": "30C26AAB-3B9F-4209-9056-5DB4A1142B61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 290,
+    "x": 1133,
+    "y": 87
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FB81F424-7F1C-4C6B-A7E8-53A21CB0DC87"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9C72D93-90D6-44BA-A8C3-CA14CE09237B"
+    },
+    {
+      "class": "text",
+      "id": "6E8341BB-6447-4109-AA08-5F6AC9694120"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3946AE3-3028-4ECE-B232-6958172AA5F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1982227D-C613-4750-906B-717CD962C3B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E52844E1-5EB5-4AA6-B2D6-43C40E78EA76"
+    },
+    {
+      "class": "text",
+      "id": "A9D1A4AD-B70D-41E0-B915-BB835C20B08D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "849A940A-3EFC-41B1-BF88-A9848AB90CBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7682E97-F59A-45D3-A6D3-F0866D2A8D52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BBAA48CB-3255-4E4A-8541-5B1B23322588"
+    },
+    {
+      "class": "text",
+      "id": "F7BAA3A2-9341-4B8A-A16B-D79CA573B103"
+    },
+    {
+      "class": "text",
+      "id": "97D58F9F-8EC9-445F-858F-332185596F44"
+    }
+  ],
+  "name": "signin_input_bday",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "25CA29D9-1B04-46A8-9E02-C97AA3FE5016",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
