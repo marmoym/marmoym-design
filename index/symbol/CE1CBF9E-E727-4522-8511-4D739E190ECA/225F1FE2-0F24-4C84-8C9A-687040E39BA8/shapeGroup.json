@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 637,
+    "height": 62,
     "width": 320,
     "x": 0,
     "y": 0
@@ -53,7 +53,7 @@
         "fillType": 0,
         "isEnabled": false,
         "position": 1,
-        "thickness": 1
+        "thickness": 2
       }
     ],
     "endDecorationType": 0,

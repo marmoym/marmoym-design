@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3F9CC674-D0D1-4FE9-9069-DAC90B111B52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 23,
+    "width": 22,
+    "x": 34,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "19BE1393-F8BC-46BE-816F-02B1DCD15335"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "719AC1DE-D306-40CD-9921-1F94A138B272"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4A4421B-8355-4869-AD80-753F9FF4075D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0223982E-30CB-4DD9-A72B-DD6D0B83DCE5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE181D6B-8A04-47E7-AB09-C54FA5A92C82"
+    }
+  ],
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

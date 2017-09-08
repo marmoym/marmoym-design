@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 366,
   "do_objectID": "C2CBEFDF-E7BF-4732-8F39-4623FA79BE34",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,8 +21,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 73,
-    "width": 291,
+    "height": 89,
+    "width": 302,
     "x": 11344,
     "y": -90
   },
@@ -44,12 +44,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "FCCACA81-C890-40B1-830A-DD01E53594B2"
-    },
-    {
       "class": "shapeGroup",
       "id": "17075F7D-58F3-4E88-8B85-31D9E3E6D6A0"
+    },
+    {
+      "class": "text",
+      "id": "FCCACA81-C890-40B1-830A-DD01E53594B2"
     }
   ],
   "name": "picture_form_1",

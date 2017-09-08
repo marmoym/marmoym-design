@@ -44,5 +44,23 @@
     "_class": "symbolContainer",
     "objects": [
     ]
-  }
+  },
+  "pages": [
+    "Page_main_TBD",
+    "Page_feedback_TBD",
+    "symbol_feedback",
+    "Page_myaccount",
+    "symbol_myaccount",
+    "Page_hamburger",
+    "symbol_hamburger",
+    "Page_login",
+    "symbol_login",
+    "symbol_join",
+    "symbol_join_certify",
+    "symbol_info_input",
+    "symbol",
+    "symbol_icons",
+    "symbol_masthead",
+    "color"
+  ]
 }

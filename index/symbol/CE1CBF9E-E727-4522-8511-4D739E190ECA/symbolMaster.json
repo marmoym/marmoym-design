@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12906,
+  "changeIdentifier": 18020,
   "do_objectID": "CE1CBF9E-E727-4522-8511-4D739E190ECA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 636,
+    "height": 62,
     "width": 320,
     "x": 10645,
     "y": -90
@@ -41,11 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "225F1FE2-0F24-4C84-8C9A-687040E39BA8"
+    },
+    {
+      "class": "text",
+      "id": "F6DAD967-E4FB-4560-AC6A-23FC835898B4"
     },
     {
       "class": "text",
@@ -54,22 +58,6 @@
     {
       "class": "shapeGroup",
       "id": "C9E88745-D4C2-4AA6-A5CF-A5960FF1AB2A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A9EA7461-380D-4CA0-9CC1-24F1A8AF0E43"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "269F93FE-E959-45DA-BFA9-50D8B4B5C9C0"
-    },
-    {
-      "class": "text",
-      "id": "9E2BD0FA-06FB-4102-B566-738C36BAD6EF"
-    },
-    {
-      "class": "text",
-      "id": "5E167F27-3A3B-4AD4-8507-33A137617BF6"
     }
   ],
   "name": "term_register_pane_1",

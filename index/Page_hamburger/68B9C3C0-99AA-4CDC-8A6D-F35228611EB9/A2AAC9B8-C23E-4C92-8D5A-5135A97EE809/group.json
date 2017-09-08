@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "A2AAC9B8-C23E-4C92-8D5A-5135A97EE809",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 320,
+    "x": 1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A4AA32F3-238D-4BE8-ACDD-B80ECBD510CC"
+    },
+    {
+      "class": "group",
+      "id": "524A75E1-E5BF-42DF-8BEF-816AF12CA3A4"
+    },
+    {
+      "class": "group",
+      "id": "A043E171-D2B0-49EA-9E8C-83E50E858264"
+    },
+    {
+      "class": "group",
+      "id": "62027721-4904-4DC6-BBBC-B6B3E49B2361"
+    },
+    {
+      "class": "group",
+      "id": "CFF724DC-CAD4-4CA1-8D47-5703D9608122"
+    }
+  ],
+  "name": "sample_masthead_pane_hamburger",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

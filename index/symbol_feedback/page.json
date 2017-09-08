@@ -67,6 +67,10 @@
     {
       "class": "symbolMaster",
       "id": "A9E05AFA-A786-4F66-B65F-F9FBF1E65EED"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7E66747C-9D21-4D9E-874E-3EB429855763"
     }
   ],
   "name": "symbol_feedback",

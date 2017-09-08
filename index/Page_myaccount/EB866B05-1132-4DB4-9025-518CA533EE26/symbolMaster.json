@@ -1,0 +1,79 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.956499787414966,
+    "green": 0.956499787414966,
+    "red": 0.956499787414966
+  },
+  "changeIdentifier": 136,
+  "do_objectID": "EB866B05-1132-4DB4-9025-518CA533EE26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 850,
+    "width": 320,
+    "x": -270,
+    "y": -366
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E08A5AEA-413F-49BC-AB75-FCDBAC596021"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C6DE5E6-4F3F-45B9-B27D-D82BD6B40BBC"
+    },
+    {
+      "class": "group",
+      "id": "CDBA4267-2815-412B-B75C-D9DC7353005E"
+    }
+  ],
+  "name": "HamburgerMenu_loggedin_D#2",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E2525B16-EF08-4AF3-83B7-5D4A1F6E4E28",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

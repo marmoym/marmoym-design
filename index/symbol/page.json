@@ -103,6 +103,22 @@
     {
       "class": "symbolMaster",
       "id": "F894B34C-12D5-480F-91AB-616D846370CC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6602012F-210D-4997-AFB7-F305F90FBDBA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DEA3613D-3375-4BBF-9873-158F70E5AC3B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0C7D7466-9C75-42E4-980E-4BDB379AFBA8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "737940BF-73A7-4EB2-BCD1-06D0E9FC8AAD"
     }
   ],
   "name": "symbol",

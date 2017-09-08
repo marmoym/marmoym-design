@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 28,
     "width": 291,
-    "x": 15,
-    "y": 230
+    "x": 17,
+    "y": 289
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -26,7 +26,7 @@
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "related_word_input_1",
   "nameIsFixed": false,
@@ -38,6 +38,28 @@
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   },
   "symbolID": "53C08683-0913-4EC5-825F-11ABF753F0C3",
