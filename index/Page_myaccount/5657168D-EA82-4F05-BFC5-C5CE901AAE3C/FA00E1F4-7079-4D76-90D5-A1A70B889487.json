@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "34A816D5-5C95-4E59-AEA1-D43302750D17",
+  "_class": "symbolInstance",
+  "do_objectID": "FA00E1F4-7079-4D76-90D5-A1A70B889487",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,24 +13,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 206,
-    "y": 15
+    "height": 850,
+    "width": 320,
+    "x": 0,
+    "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "bitmap",
-      "id": "40FD342D-671E-4643-A73E-CA8E6022F4D9"
-    }
-  ],
-  "name": "search_icon",
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "popup_draft#2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,5 +39,7 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "7B16FBF3-302A-4180-A00F-052D72A5AAE2",
+  "verticalSpacing": 0
 }

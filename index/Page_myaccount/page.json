@@ -33,12 +33,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "EB866B05-1132-4DB4-9025-518CA533EE26"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FA00E1F4-7079-4D76-90D5-A1A70B889487"
+      "class": "artboard",
+      "id": "5657168D-EA82-4F05-BFC5-C5CE901AAE3C"
     }
   ],
   "name": "Page_myaccount",
