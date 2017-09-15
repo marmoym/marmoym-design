@@ -7,7 +7,7 @@
     "green": 0.956499787414966,
     "red": 0.956499787414966
   },
-  "do_objectID": "AE926EB2-541C-4678-8D3B-1F2FAD459FAF",
+  "do_objectID": "B8E39F4B-FA2B-469F-9715-5904EC92B02C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 850,
     "width": 320,
-    "x": 2809,
+    "x": 2451,
     "y": -77
   },
   "grid": {
@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,38 +45,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "D2975FA4-D9F8-4DF8-99DA-EB9E9065F9B9"
-    },
-    {
       "class": "group",
-      "id": "AB55BC36-24B4-4902-88A6-6A7CE7F41695"
-    },
-    {
-      "class": "bitmap",
-      "id": "091DF6E4-E241-484B-B6D8-9B041DE3B746"
+      "id": "389D767C-88F7-4129-8542-C9E83057C3C2"
     },
     {
       "class": "text",
-      "id": "B60F2AC1-6332-492C-8347-E410B5478557"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "DE327FAB-2FCA-4111-8D42-996693D68680"
-    },
-    {
-      "class": "text",
-      "id": "46934550-0EE8-4F1D-81BA-0141582EDECA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "69685954-CD3A-44D3-8A4C-15CA877ED75B"
+      "id": "1E07A297-A745-4919-8136-CBE634CC6673"
     }
   ],
-  "name": "TermRegister",
+  "name": "Searching_tab",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
