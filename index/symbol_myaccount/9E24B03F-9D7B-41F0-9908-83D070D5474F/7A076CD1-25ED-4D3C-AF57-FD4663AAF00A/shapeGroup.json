@@ -32,8 +32,8 @@
       "id": "FFC823C3-8DC1-4507-AF2D-482760527808"
     }
   ],
-  "name": "Rectangle 3",
-  "nameIsFixed": false,
+  "name": "name_textbox",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

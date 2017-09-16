@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 666,
+  "changeIdentifier": 1132,
   "do_objectID": "9E24B03F-9D7B-41F0-9908-83D070D5474F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 24,
     "width": 59,
-    "x": 302,
-    "y": 74
+    "x": 630,
+    "y": -64
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,7 +52,7 @@
       "id": "B8B6A476-8147-4BDF-8AF2-C4F6000287A6"
     }
   ],
-  "name": "popup_welcome_name",
+  "name": "myaccount_welcome_name",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
