@@ -63,9 +63,14 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.07742570122025688,
+          "green": 0.07742570122025688,
+          "red": 0.1709449404761905
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 12,
+          "opacity": 1
         },
         "fillType": 0,
         "isEnabled": true,
