@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 196,
     "width": 298,
-    "x": -9,
-    "y": -5
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,8 +32,8 @@
       "id": "C74A5C24-2B2F-469C-A812-9AF41F0AC04F"
     }
   ],
-  "name": "Rectangle",
-  "nameIsFixed": false,
+  "name": "highlighter",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
