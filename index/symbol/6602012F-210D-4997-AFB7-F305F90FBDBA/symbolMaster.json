@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 35329,
+  "changeIdentifier": 41304,
   "do_objectID": "6602012F-210D-4997-AFB7-F305F90FBDBA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 153,
+    "height": 171,
     "width": 320,
-    "x": 13188,
-    "y": 773
+    "x": 13170,
+    "y": 739
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -104,6 +104,14 @@
     {
       "class": "symbolInstance",
       "id": "95D37A6A-80EE-4FE6-94C4-DF236572D4EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61427F0E-E1A9-4076-AB0A-65BB899A206C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72FAF01C-5E3D-4345-BACC-19F1E3D7973B"
     }
   ],
   "name": "term_entry_pane2",

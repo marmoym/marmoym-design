@@ -159,6 +159,18 @@
     {
       "class": "symbolMaster",
       "id": "BEDE03DC-01ED-47A7-A7CA-F4C25FC93F40"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0C8F7902-C74F-4490-9A0C-B71EDA08BD7D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "17E7C960-FDCF-46A1-BA7E-AF61ED027E96"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "73B0CD65-3902-48A4-8FCC-FE7D33DDE905"
     }
   ],
   "name": "symbol",

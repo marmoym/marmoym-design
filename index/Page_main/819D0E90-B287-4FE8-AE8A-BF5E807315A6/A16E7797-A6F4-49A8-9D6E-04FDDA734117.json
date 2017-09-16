@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 153,
+    "height": 171,
     "width": 320,
     "x": 0,
-    "y": 307
+    "y": 326
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 3464,
-  "masterInfluenceEdgeMaxYPadding": 75,
+  "masterInfluenceEdgeMaxXPadding": 3463,
+  "masterInfluenceEdgeMaxYPadding": 70,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 1,
   "name": "term_entry_pane2",

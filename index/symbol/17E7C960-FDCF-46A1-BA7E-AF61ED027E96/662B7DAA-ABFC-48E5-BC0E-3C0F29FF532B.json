@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 14,
     "width": 13,
-    "x": 297,
-    "y": 23
+    "x": 0,
+    "y": 0
   },
   "glyphBounds": "{{0, 0}, {13, 13}}",
   "heightIsClipped": false,
@@ -34,7 +34,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Star - FontAwesome",
+  "name": "",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
