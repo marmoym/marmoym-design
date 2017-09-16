@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1480,
+  "changeIdentifier": 2795,
   "do_objectID": "D8312D6C-2618-4627-8A98-3631C8B07126",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 97,
     "width": 160,
-    "x": 681,
-    "y": 106
+    "x": 520,
+    "y": 239
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,7 +49,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "76DB79F8-E680-429C-8DBF-9A72DA874009"
+      "id": "00ED63A8-50A2-42E9-ABEE-C13CA43FEA91"
     }
   ],
   "name": "myaccount_help_box",

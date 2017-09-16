@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "8B72D8FC-31BA-4C54-9D20-779076BB55DB",
+  "do_objectID": "A8BA97E9-FFBF-4593-8E34-591B5CE61844",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,8 +16,8 @@
     "constrainProportions": true,
     "height": 40,
     "width": 40,
-    "x": 8,
-    "y": 0
+    "x": 10,
+    "y": 1
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,11 +29,11 @@
   "layers": [
     {
       "class": "oval",
-      "id": "1B5C042A-3F47-4D59-9A18-AEFF80D04252"
+      "id": "294A0870-05E7-4F79-B9AB-CF83E275C317"
     }
   ],
-  "name": "Oval",
-  "nameIsFixed": false,
+  "name": "badge",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

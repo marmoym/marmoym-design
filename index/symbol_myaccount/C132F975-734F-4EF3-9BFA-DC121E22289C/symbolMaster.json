@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12548,
+  "changeIdentifier": 14537,
   "do_objectID": "C132F975-734F-4EF3-9BFA-DC121E22289C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -110,6 +110,10 @@
     {
       "class": "symbolInstance",
       "id": "39FDE0F7-1E2D-4719-832F-51557F5DA0D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "580A16E3-33A4-4266-8286-3E10AEA910D9"
     }
   ],
   "name": "popup_draft#2",

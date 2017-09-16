@@ -32,8 +32,8 @@
       "id": "82AAC61D-5119-4C68-AB45-875775594CE8"
     }
   ],
-  "name": "Rectangle 3",
-  "nameIsFixed": false,
+  "name": "welcome_textbox",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

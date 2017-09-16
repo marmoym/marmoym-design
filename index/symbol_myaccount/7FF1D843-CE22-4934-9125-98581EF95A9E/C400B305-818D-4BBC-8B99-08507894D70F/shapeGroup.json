@@ -32,8 +32,8 @@
       "id": "B1C969AE-EF3C-44F7-B355-0AC0B81D26FE"
     }
   ],
-  "name": "Rectangle",
-  "nameIsFixed": false,
+  "name": "logo_bg",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

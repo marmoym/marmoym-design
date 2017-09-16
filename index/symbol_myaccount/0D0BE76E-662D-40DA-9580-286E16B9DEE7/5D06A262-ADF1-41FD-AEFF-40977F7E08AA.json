@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 21,
     "width": 59,
-    "x": 0,
-    "y": 54
+    "x": -6,
+    "y": 55
   },
   "glyphBounds": "{{6, 1}, {47, 17}}",
   "heightIsClipped": false,
@@ -34,7 +34,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "공감 수",
+  "name": "upvote_count",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

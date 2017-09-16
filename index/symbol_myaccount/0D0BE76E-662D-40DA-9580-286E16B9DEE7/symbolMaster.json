@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 487,
+  "changeIdentifier": 499,
   "do_objectID": "0D0BE76E-662D-40DA-9580-286E16B9DEE7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -249
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,11 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "AAB6DED8-1B7D-4D63-B715-7C370F887422"
+      "class": "shapeGroup",
+      "id": "8B72D8FC-31BA-4C54-9D20-779076BB55DB"
+    },
+    {
+      "class": "text",
+      "id": "5D06A262-ADF1-41FD-AEFF-40977F7E08AA"
     },
     {
       "class": "text",

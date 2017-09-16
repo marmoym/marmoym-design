@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 21,
     "width": 63,
-    "x": 0,
-    "y": 55
+    "x": -1,
+    "y": 56
   },
   "glyphBounds": "{{0, 1}, {62, 17}}",
   "heightIsClipped": false,
@@ -34,7 +34,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "계정정보",
+  "name": "account_info.",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
