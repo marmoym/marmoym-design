@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.956499787414966,
-    "green": 0.956499787414966,
-    "red": 0.956499787414966
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
-  "do_objectID": "B8E39F4B-FA2B-469F-9715-5904EC92B02C",
+  "do_objectID": "CA964AC2-D353-4853-921E-E2A6E02D5C07",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,18 +20,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 850,
-    "width": 320,
-    "x": 2448,
-    "y": -77
+    "height": 43,
+    "width": 606,
+    "x": -101,
+    "y": -327
   },
-  "grid": {
-    "_class": "simpleGrid",
-    "gridSize": 20,
-    "isEnabled": false,
-    "thickGridTimes": 10
-  },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -45,19 +39,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "389D767C-88F7-4129-8542-C9E83057C3C2"
-    },
-    {
       "class": "text",
-      "id": "1E07A297-A745-4919-8136-CBE634CC6673"
+      "id": "D689B3C0-0553-41D0-A686-B5DB1C449633"
     }
   ],
-  "name": "Searching_tab",
-  "nameIsFixed": true,
+  "name": "Artboard",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -66,24 +56,6 @@
   "style": {
     "_class": "style",
     "endDecorationType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startDecorationType": 0
   },

@@ -64,6 +64,22 @@
     {
       "class": "symbolInstance",
       "id": "A16E7797-A6F4-49A8-9D6E-04FDDA734117"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C5276773-8BD9-490B-BFC1-EA8D42DC701F"
+    },
+    {
+      "class": "text",
+      "id": "6CE61CB8-E824-4007-AA0F-15072C0F2732"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A500B72D-E885-4191-9FBC-066B2280641F"
+    },
+    {
+      "class": "text",
+      "id": "46E35D7D-150B-4309-9038-65D93B61850B"
     }
   ],
   "name": "Searched",
