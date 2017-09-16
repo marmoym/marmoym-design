@@ -62,15 +62,23 @@
     },
     {
       "class": "symbolMaster",
-      "id": "ED252CC9-7FA0-470A-8CB8-59DD65ECE269"
-    },
-    {
-      "class": "symbolMaster",
       "id": "A9E05AFA-A786-4F66-B65F-F9FBF1E65EED"
     },
     {
       "class": "symbolMaster",
       "id": "7E66747C-9D21-4D9E-874E-3EB429855763"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4A28BA36-E2ED-4709-BCA6-F337754D6286"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2AF4943F-749C-42BA-AB9F-2819037F4B3D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "896E14E4-6854-4805-AB81-E8292091E26C"
     }
   ],
   "name": "symbol_feedback",

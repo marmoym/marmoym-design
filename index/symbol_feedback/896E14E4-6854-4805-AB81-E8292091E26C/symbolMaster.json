@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 542,
-  "do_objectID": "7FF1D843-CE22-4934-9125-98581EF95A9E",
+  "changeIdentifier": 275,
+  "do_objectID": "896E14E4-6854-4805-AB81-E8292091E26C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 30,
-    "x": 357,
-    "y": -331
+    "height": 21,
+    "width": 21,
+    "x": 519,
+    "y": -4
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,15 +45,11 @@
   "layers": [
     {
       "class": "text",
-      "id": "79DCEB87-F945-4558-9CF9-0D159367C515"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C400B305-818D-4BBC-8B99-08507894D70F"
+      "id": "69438A1F-BCD0-460C-A99D-18A62F745F29"
     }
   ],
-  "name": "myaccount_logo",
-  "nameIsFixed": false,
+  "name": "feedback_exitbtn",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -65,7 +61,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "A50CB5B4-2D37-4EF0-A838-A5AAB374D969",
+  "symbolID": "692595A5-7993-4322-A46F-8846C0EC6AC4",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

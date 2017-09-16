@@ -32,8 +32,8 @@
       "id": "FB977787-D1A7-4085-BA66-8EB1C07F0098"
     }
   ],
-  "name": "Oval 2",
-  "nameIsFixed": false,
+  "name": "partition_dot",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

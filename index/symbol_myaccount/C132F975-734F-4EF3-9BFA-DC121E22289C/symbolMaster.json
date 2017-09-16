@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 14537,
+  "changeIdentifier": 14560,
   "do_objectID": "C132F975-734F-4EF3-9BFA-DC121E22289C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,16 +48,16 @@
       "id": "6A318469-B29E-44B1-B4B2-AC0F8BC4DE66"
     },
     {
+      "class": "symbolInstance",
+      "id": "5CCE51FB-2E92-497F-BA0F-028B171EA96F"
+    },
+    {
       "class": "shapeGroup",
       "id": "AFC6C08E-A172-4F8B-A147-C7C03B2CD634"
     },
     {
       "class": "shapeGroup",
       "id": "A45987C5-9CCE-458D-8D73-228172B11D89"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5CCE51FB-2E92-497F-BA0F-028B171EA96F"
     },
     {
       "class": "symbolInstance",
@@ -116,7 +116,7 @@
       "id": "580A16E3-33A4-4266-8286-3E10AEA910D9"
     }
   ],
-  "name": "popup_draft#2",
+  "name": "myaccount",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

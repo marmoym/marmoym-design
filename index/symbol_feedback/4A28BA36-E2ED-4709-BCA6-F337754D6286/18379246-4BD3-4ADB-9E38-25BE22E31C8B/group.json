@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "451F5847-4E98-4D44-9061-3E2686E7E2A2",
+  "_class": "group",
+  "do_objectID": "18379246-4BD3-4ADB-9E38-25BE22E31C8B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,19 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 16,
+    "width": 17,
+    "x": 14,
+    "y": 19
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -586,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -33,16 +26,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "6CCE923C-3FB7-4FD1-B422-725C9259D32F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BE961ECE-2A13-4D37-AEA3-5049120725E2"
+      "class": "bitmap",
+      "id": "CED3F51C-161F-4BD9-913F-F6EF2244BEF5"
     }
   ],
-  "name": "Page_feedback",
-  "nameIsFixed": true,
+  "name": "feedback_cancelbtn",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -52,11 +41,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -332,
-    "guides": [
-    ]
   }
 }

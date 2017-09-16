@@ -32,8 +32,8 @@
       "id": "17E7A15F-4B2F-4D79-B964-B4D93347086C"
     }
   ],
-  "name": "Line 3",
-  "nameIsFixed": false,
+  "name": "partition_bar",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
