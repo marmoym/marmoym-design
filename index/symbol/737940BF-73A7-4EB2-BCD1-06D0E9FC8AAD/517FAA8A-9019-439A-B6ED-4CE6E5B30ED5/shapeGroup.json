@@ -32,8 +32,8 @@
       "id": "4C1A15F0-FBD0-41D1-B60B-C0C706577E7A"
     }
   ],
-  "name": "Rectangle 6",
-  "nameIsFixed": false,
+  "name": "tmpsave_bg",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -46,8 +46,8 @@
     ]
   },
   "pages": [
-    "Page_main_TBD",
-    "Page_feedback_TBD",
+    "Page_main",
+    "Page_feedback",
     "symbol_feedback",
     "Page_myaccount",
     "symbol_myaccount",

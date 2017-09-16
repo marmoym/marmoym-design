@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 32673,
+  "changeIdentifier": 35070,
   "do_objectID": "6602012F-210D-4997-AFB7-F305F90FBDBA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 260,
+    "height": 153,
     "width": 320,
-    "x": 13166,
-    "y": 1652
+    "x": 13201,
+    "y": 739
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,14 +54,6 @@
       "id": "A7F6A38E-3199-4844-AC91-E10ABEBF22CC"
     },
     {
-      "class": "symbolInstance",
-      "id": "B275718D-4E69-468C-82F9-9D157EC1A0A6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "874F9FF0-B43F-47F4-BDD8-C8C694119361"
-    },
-    {
       "class": "group",
       "id": "A4C35270-F66A-4540-9EEB-52906DF06A8C"
     },
@@ -79,30 +71,6 @@
     },
     {
       "class": "group",
-      "id": "7D524407-B651-4FB0-BD8F-2CBD59F5A9CE"
-    },
-    {
-      "class": "group",
-      "id": "FCED7F87-9328-467E-ADFE-F2126C7735E2"
-    },
-    {
-      "class": "group",
-      "id": "E2ED1D1D-D6E9-4B9B-B70B-76DC9C570458"
-    },
-    {
-      "class": "group",
-      "id": "F7CD37BF-D120-492E-903C-86A84CADCAFC"
-    },
-    {
-      "class": "group",
-      "id": "1566501B-C382-4F3A-A8D7-D0A4F9EDE1A6"
-    },
-    {
-      "class": "group",
-      "id": "746C3D63-467C-484F-A277-7697A87C131C"
-    },
-    {
-      "class": "group",
       "id": "316AB1EC-68B6-4953-A84E-04C7651E3760"
     },
     {
@@ -110,8 +78,32 @@
       "id": "89345904-764B-4AE9-BF95-232C1EFDEAD6"
     },
     {
-      "class": "text",
-      "id": "3783F42B-9642-4060-AD78-BF270C868FA4"
+      "class": "group",
+      "id": "3C23412F-976A-4C9F-BE8E-62E44F7B5FBB"
+    },
+    {
+      "class": "group",
+      "id": "858464C1-7079-4A43-9881-4FCAA3FD8B44"
+    },
+    {
+      "class": "group",
+      "id": "C1960B1C-09D7-4B79-8545-F82C0DD7793F"
+    },
+    {
+      "class": "group",
+      "id": "2E161BB7-181D-419B-9225-B380886BAF7A"
+    },
+    {
+      "class": "group",
+      "id": "3317659E-8E1E-4E1E-B36D-4192ED219A52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30420E82-308D-4B5F-BC7D-6DE62AFFD67C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95D37A6A-80EE-4FE6-94C4-DF236572D4EB"
     }
   ],
   "name": "term_entry_pane2",

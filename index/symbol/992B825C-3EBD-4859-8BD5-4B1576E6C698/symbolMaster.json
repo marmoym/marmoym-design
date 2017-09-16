@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 32775,
+  "changeIdentifier": 36124,
   "do_objectID": "992B825C-3EBD-4859-8BD5-4B1576E6C698",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 260,
+    "height": 187,
     "width": 320,
-    "x": 12746,
-    "y": 1652
+    "x": 12781,
+    "y": 739
   },
   "grid": {
     "_class": "simpleGrid",
@@ -56,10 +56,6 @@
     {
       "class": "symbolInstance",
       "id": "BDA7E9F9-D1B7-4283-A976-D2824EB2E691"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "98F649A2-2F67-4009-90A0-B5CF81F76B21"
     },
     {
       "class": "group",
@@ -111,7 +107,11 @@
     },
     {
       "class": "text",
-      "id": "8F327B09-026E-4B94-B070-8A447936CA43"
+      "id": "662B7DAA-ABFC-48E5-BC0E-3C0F29FF532B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4034D53D-51D4-49E5-B95E-72E31413A546"
     }
   ],
   "name": "term_entry_pane_1",
