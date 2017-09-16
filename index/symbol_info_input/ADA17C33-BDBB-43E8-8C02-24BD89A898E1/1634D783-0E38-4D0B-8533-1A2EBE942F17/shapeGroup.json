@@ -32,8 +32,8 @@
       "id": "607B2988-8EE7-4933-A167-DF5D33B0D148"
     }
   ],
-  "name": "Rectangle 6",
-  "nameIsFixed": false,
+  "name": "gender_box",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

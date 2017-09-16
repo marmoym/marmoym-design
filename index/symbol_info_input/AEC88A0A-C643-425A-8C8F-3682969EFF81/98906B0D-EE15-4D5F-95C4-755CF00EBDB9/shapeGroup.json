@@ -32,8 +32,8 @@
       "id": "28B10B2C-6F87-431F-90ED-ABAC51EC6828"
     }
   ],
-  "name": "Rectangle 7",
-  "nameIsFixed": false,
+  "name": "complete_box",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

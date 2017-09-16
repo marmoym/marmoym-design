@@ -32,8 +32,8 @@
       "id": "EAE38430-814E-4E70-8C0D-143C40CB966B"
     }
   ],
-  "name": "Rectangle",
-  "nameIsFixed": false,
+  "name": "logo_box",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -32,8 +32,8 @@
       "id": "12F4F4FF-F47C-481F-BD1B-E044F44D28E4"
     }
   ],
-  "name": "Rectangle 5",
-  "nameIsFixed": false,
+  "name": "chkbox",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

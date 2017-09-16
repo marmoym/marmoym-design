@@ -32,8 +32,8 @@
       "id": "9790B9A0-C43F-40BF-B5D4-FB6166F825D2"
     }
   ],
-  "name": "Rectangle 2",
-  "nameIsFixed": false,
+  "name": "signin_info_bg",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

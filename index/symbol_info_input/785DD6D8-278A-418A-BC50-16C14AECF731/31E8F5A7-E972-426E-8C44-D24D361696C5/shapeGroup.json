@@ -32,8 +32,8 @@
       "id": "225F489D-3D5C-4CE1-A083-DF0CCA91F7D1"
     }
   ],
-  "name": "Rectangle 4",
-  "nameIsFixed": false,
+  "name": "pw_input_box",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

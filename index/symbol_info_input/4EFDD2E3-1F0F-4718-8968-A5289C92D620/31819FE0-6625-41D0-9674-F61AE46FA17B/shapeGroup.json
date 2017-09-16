@@ -32,8 +32,8 @@
       "id": "86E1BE60-D6AB-4CF0-9FD0-10F50BDA2548"
     }
   ],
-  "name": "Rectangle 3",
-  "nameIsFixed": false,
+  "name": "info_inputbox",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

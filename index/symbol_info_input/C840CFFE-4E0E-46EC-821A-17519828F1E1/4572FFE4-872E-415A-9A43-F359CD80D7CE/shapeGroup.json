@@ -32,8 +32,8 @@
       "id": "7F5532B4-C9F4-4ED2-9EED-6F053A46968D"
     }
   ],
-  "name": "Rectangle 4",
-  "nameIsFixed": false,
+  "name": "nickname_box",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

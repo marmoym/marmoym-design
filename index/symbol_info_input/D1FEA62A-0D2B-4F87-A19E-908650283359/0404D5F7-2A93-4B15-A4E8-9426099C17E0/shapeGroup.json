@@ -32,8 +32,8 @@
       "id": "0320B65A-AB2E-4565-8041-9BEB72E166B8"
     }
   ],
-  "name": "Rectangle 4",
-  "nameIsFixed": false,
+  "name": "pw_rechk_box",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

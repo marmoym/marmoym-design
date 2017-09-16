@@ -32,8 +32,8 @@
       "id": "907F0E46-BCD3-4535-9FF8-6ECC00DFF414"
     }
   ],
-  "name": "Rectangle 5",
-  "nameIsFixed": false,
+  "name": "year_box",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -32,8 +32,8 @@
       "id": "21AA747F-6392-43BE-9038-E43E0B5057A7"
     }
   ],
-  "name": "Rectangle 6",
-  "nameIsFixed": false,
+  "name": "pwbox",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

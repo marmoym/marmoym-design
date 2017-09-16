@@ -32,8 +32,8 @@
       "id": "4DC6D7B4-8FF2-42E9-B809-6B3AB323265A"
     }
   ],
-  "name": "Rectangle 6",
-  "nameIsFixed": false,
+  "name": "textbox",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

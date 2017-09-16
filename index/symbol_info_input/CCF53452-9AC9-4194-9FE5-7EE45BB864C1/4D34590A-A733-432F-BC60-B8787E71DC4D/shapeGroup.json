@@ -32,8 +32,8 @@
       "id": "F279D651-C341-4BC9-8CBB-EB4AA3791721"
     }
   ],
-  "name": "Rectangle 4",
-  "nameIsFixed": false,
+  "name": "email_adress_txtbox",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

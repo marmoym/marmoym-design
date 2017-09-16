@@ -32,8 +32,8 @@
       "id": "7D82A3F3-7299-4158-96A0-A24F300B62E6"
     }
   ],
-  "name": "Rectangle 4",
-  "nameIsFixed": false,
+  "name": "D.O.B_box",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
