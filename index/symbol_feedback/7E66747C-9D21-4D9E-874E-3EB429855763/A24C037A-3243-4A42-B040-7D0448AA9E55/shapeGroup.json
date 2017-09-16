@@ -32,8 +32,8 @@
       "id": "92953E43-451C-4AD4-86B7-C3F744E4A285"
     }
   ],
-  "name": "Line",
-  "nameIsFixed": false,
+  "name": "message_partition",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

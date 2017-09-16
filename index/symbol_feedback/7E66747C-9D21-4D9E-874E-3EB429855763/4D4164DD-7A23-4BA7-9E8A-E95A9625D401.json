@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 44,
     "width": 129,
-    "x": 0,
-    "y": 0
+    "x": 1,
+    "y": 1
   },
   "glyphBounds": "{{10, 2}, {109, 22}}",
   "heightIsClipped": true,
@@ -34,8 +34,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "말모음 로고",
-  "nameIsFixed": false,
+  "name": "Logo",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

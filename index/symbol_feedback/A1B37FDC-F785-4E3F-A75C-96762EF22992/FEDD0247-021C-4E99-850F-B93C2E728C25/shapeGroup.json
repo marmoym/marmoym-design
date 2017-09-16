@@ -32,8 +32,8 @@
       "id": "D8D73320-E1B1-418E-ABA7-9C22FEA25935"
     }
   ],
-  "name": "Rectangle 4",
-  "nameIsFixed": false,
+  "name": "text_area_bg",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

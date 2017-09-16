@@ -32,8 +32,8 @@
       "id": "338DBF2D-5773-453F-91F3-2D9148C64824"
     }
   ],
-  "name": "Rectangle 3",
-  "nameIsFixed": false,
+  "name": "masthead_bg",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
