@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1765,
+  "changeIdentifier": 2006,
   "do_objectID": "DEA3613D-3375-4BBF-9873-158F70E5AC3B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 27,
     "width": 273,
-    "x": 11718,
-    "y": 83
+    "x": 11775,
+    "y": -267
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,27 +41,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "D8256727-584D-4AE0-A3FF-217CBA36200D"
     },
     {
-      "class": "shapeGroup",
-      "id": "E33E8475-D30F-4279-BBE3-21E1F33821CF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3886D429-A2A3-434F-801C-E3048884E990"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "03B0978D-CEBA-4FF6-929B-FE34A09A5B9D"
+      "class": "text",
+      "id": "824D9E08-D530-48A9-ABC7-F702387F6547"
     },
     {
       "class": "text",
-      "id": "824D9E08-D530-48A9-ABC7-F702387F6547"
+      "id": "10B2638E-553C-498B-8B24-27433A689D5C"
     }
   ],
   "name": "term_entry_addusage",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8,
+  "changeIdentifier": 584,
   "do_objectID": "359DDDAA-ABF0-4CC8-8CAF-756B38452769",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,15 +41,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "ECC8056A-356D-4389-A3B5-F1BFD9A4FE5C"
-    },
-    {
-      "class": "bitmap",
-      "id": "8972BD5F-F482-4EEB-A165-016EB04AFA5F"
     },
     {
       "class": "shapeGroup",
@@ -58,6 +54,10 @@
     {
       "class": "text",
       "id": "3CEA41AB-035F-44FA-8D33-C1E1B7B23A5D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D59733F-881B-4DEC-A4CC-F764F39BAAFD"
     }
   ],
   "name": "login_twitter",

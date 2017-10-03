@@ -86,10 +86,6 @@
     },
     {
       "class": "symbolMaster",
-      "id": "CE1CBF9E-E727-4522-8511-4D739E190ECA"
-    },
-    {
-      "class": "symbolMaster",
       "id": "C2CBEFDF-E7BF-4732-8F39-4623FA79BE34"
     },
     {
@@ -171,6 +167,34 @@
     {
       "class": "symbolMaster",
       "id": "73B0CD65-3902-48A4-8FCC-FE7D33DDE905"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "69060198-88FD-4FC9-8F94-83A5F51FF8E1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "589FD511-BFE0-4404-8079-619FE7A24454"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "26863911-1217-4E4E-AE62-339359F34887"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BBEB5B1B-A5C0-48F8-B2B5-D62575AEF19F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9048CAC9-A043-43EC-A8BA-F39EE13738F4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A952CA5B-4C15-4EAF-B44C-A2D1DCE7443E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9D06FD95-DB70-4104-93A2-D7C30ED30929"
     }
   ],
   "name": "symbol",

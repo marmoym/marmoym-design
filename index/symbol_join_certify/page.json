@@ -103,6 +103,10 @@
     {
       "class": "symbolMaster",
       "id": "973FB2A2-1285-4845-8AD1-FF15D8281DAC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4246B4CC-5B75-4873-B531-7CBC58B304A3"
     }
   ],
   "name": "symbol_join_certify",

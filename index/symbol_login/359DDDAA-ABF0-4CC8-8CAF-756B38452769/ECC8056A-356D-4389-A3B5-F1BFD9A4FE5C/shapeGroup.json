@@ -46,9 +46,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 0.5098039215686274,
-          "red": 0
+          "blue": 0.2431372549019607,
+          "green": 0.7764705882352941,
+          "red": 0.02352941176470595
         },
         "fillType": 0,
         "isEnabled": true,
@@ -63,12 +63,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 0.5098039215686274,
-          "red": 0
+          "blue": 0.2431372549019607,
+          "green": 0.7764705882352941,
+          "red": 0.02352941176470595
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
