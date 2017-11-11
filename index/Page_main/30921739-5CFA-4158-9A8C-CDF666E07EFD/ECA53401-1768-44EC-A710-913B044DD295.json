@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 339,
+    "height": 491,
     "width": 320,
     "x": 0,
     "y": 317
@@ -26,8 +26,8 @@
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1376,
+  "masterInfluenceEdgeMinYPadding": 105,
   "name": "comment_pane_1",
   "nameIsFixed": true,
   "resizingConstraint": 63,

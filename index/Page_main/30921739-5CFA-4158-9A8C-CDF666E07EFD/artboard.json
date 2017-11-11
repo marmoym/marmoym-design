@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 850,
     "width": 320,
-    "x": 2086,
+    "x": 2429,
     "y": -77
   },
   "grid": {
@@ -58,9 +58,13 @@
     {
       "class": "symbolInstance",
       "id": "ECA53401-1768-44EC-A710-913B044DD295"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E387637C-A6B1-4D11-92FD-FBBB0FD0C971"
     }
   ],
-  "name": "EntryDetail",
+  "name": "EntryDetail_w/commentbox",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

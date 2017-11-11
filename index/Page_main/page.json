@@ -55,9 +55,13 @@
     {
       "class": "artboard",
       "id": "B8E39F4B-FA2B-469F-9715-5904EC92B02C"
+    },
+    {
+      "class": "artboard",
+      "id": "61A219F9-1A42-4062-A2A7-2308EC51B659"
     }
   ],
-  "name": "Page_main",
+  "name": "page_main",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
