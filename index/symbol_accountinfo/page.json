@@ -115,6 +115,30 @@
     {
       "class": "symbolMaster",
       "id": "4BD8F2D2-0599-4696-8E74-8172C5CFAD3C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E447B069-28A2-4073-ABF7-F6CCD5DD8E9F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EBB0022B-B6E1-4009-A083-5E6F09923AC8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DAC750E9-83E1-4DE6-8E3F-4DEEFE094B8E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E5964E3E-47CB-4003-8543-BFF2A24957B0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CB33DD89-380E-486F-B2D8-A967086C5F61"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "87BF1543-9E15-46FE-BE66-E8D904887AF9"
     }
   ],
   "name": "symbol_accountinfo",

@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 409,
+    "height": 617,
     "width": 320,
     "x": 0,
-    "y": 90
+    "y": 100
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,10 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 547,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 1410,
-  "masterInfluenceEdgeMinYPadding": 363,
+  "masterInfluenceEdgeMaxXPadding": 559,
+  "masterInfluenceEdgeMaxYPadding": 33,
+  "masterInfluenceEdgeMinXPadding": 1026,
+  "masterInfluenceEdgeMinYPadding": 113,
   "name": "accntinfo_division",
   "nameIsFixed": false,
   "resizingConstraint": 63,

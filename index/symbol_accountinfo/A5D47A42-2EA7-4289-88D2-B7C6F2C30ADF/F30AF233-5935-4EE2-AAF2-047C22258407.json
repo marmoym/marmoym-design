@@ -16,7 +16,7 @@
     "height": 215,
     "width": 320,
     "x": 0,
-    "y": 120
+    "y": 335
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,10 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 547,
+  "masterInfluenceEdgeMaxXPadding": 559,
   "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 724,
-  "masterInfluenceEdgeMinYPadding": 366,
+  "masterInfluenceEdgeMinXPadding": 8,
+  "masterInfluenceEdgeMinYPadding": 137,
   "name": "accountinfo_contact_box",
   "nameIsFixed": false,
   "resizingConstraint": 63,
