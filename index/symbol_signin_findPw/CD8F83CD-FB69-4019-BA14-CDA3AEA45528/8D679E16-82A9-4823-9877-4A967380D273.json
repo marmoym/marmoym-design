@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "F1F492A9-AC3C-49BF-A5F5-3567B1D9A5A0",
+  "do_objectID": "8D679E16-82A9-4823-9877-4A967380D273",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 250,
+    "height": 54,
+    "width": 54,
     "x": 0,
-    "y": 120
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "popup_showdesktop",
+  "name": "findPw_backbtn",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,6 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "B474378A-49DA-4635-82EC-B1C1BE0F3C51",
+  "symbolID": "2B231F3F-A17D-40CB-82A1-6656D5253006",
   "verticalSpacing": 0
 }

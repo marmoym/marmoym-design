@@ -32,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "E4DA6C1E-4DE7-4AEC-AD3C-7F949EDC68C3"
+    }
   ],
   "name": "symbol_app_info_TBD",
   "nameIsFixed": true,

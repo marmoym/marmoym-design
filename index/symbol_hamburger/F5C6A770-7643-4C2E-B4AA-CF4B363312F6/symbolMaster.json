@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 362,
+  "changeIdentifier": 660,
   "do_objectID": "F5C6A770-7643-4C2E-B4AA-CF4B363312F6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
+    "height": 161,
     "width": 250,
     "x": -76,
     "y": 38
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,10 +58,6 @@
     {
       "class": "symbolInstance",
       "id": "446C0C08-5462-4702-9AD8-60EF949D5E30"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F1F492A9-AC3C-49BF-A5F5-3567B1D9A5A0"
     },
     {
       "class": "symbolInstance",

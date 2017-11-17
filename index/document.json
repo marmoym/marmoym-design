@@ -49715,8 +49715,12 @@
     "memo",
     "page_main",
     "symbol_main",
+    "page_hamburger",
+    "symbol_hamburger",
     "page_feedback",
     "symbol_feedback",
+    "page_myaccount_d2",
+    "symbol_myaccount_d2",
     "page_myaccount",
     "symbol_myaccount",
     "page_accountinfo",
@@ -49729,13 +49733,12 @@
     "symbol_app_info_TBD",
     "page_view_uploaded_comments_TBD",
     "symbol_view_uploaded comments_TBD",
-    "page_hamburger",
-    "symbol_hamburger",
     "page_signin",
     "symbol_signin",
     "symbol_signin_signup",
     "symbol_signin_signup_certify",
     "symbol_signin_signup_input",
+    "symbol_signin_findPw",
     "symbol_icons"
   ]
 }
