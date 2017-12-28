@@ -59,6 +59,10 @@
     {
       "class": "symbolMaster",
       "id": "2327EBAD-99D3-4ACF-8E8D-BF0865FA2FC0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A0C5C40E-2D1C-4F93-B9A5-EB2A21CDB222"
     }
   ],
   "name": "symbol_signin_findPw",

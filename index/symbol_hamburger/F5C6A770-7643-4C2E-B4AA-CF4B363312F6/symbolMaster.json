@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 660,
+  "changeIdentifier": 4880,
   "do_objectID": "F5C6A770-7643-4C2E-B4AA-CF4B363312F6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 161,
+    "height": 204,
     "width": 250,
     "x": -76,
     "y": 38
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,23 +49,27 @@
     },
     {
       "class": "symbolInstance",
-      "id": "28DB8810-38D9-4B26-9CC6-417147554F71"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4C3F34BC-8197-46BC-91D0-30BFF29444E9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "446C0C08-5462-4702-9AD8-60EF949D5E30"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B9FC932D-802F-4DC6-ABDA-EF37C560826C"
+      "id": "F7E8752F-EEF2-46C1-B87A-507C03C7DF26"
     },
     {
       "class": "shapeGroup",
-      "id": "71E29E6C-2285-4C04-97A6-9DA5F3B4F0EE"
+      "id": "0F82C49A-8757-410C-9B8C-EA1F77C4D454"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7485295F-48C4-4FFF-BB2E-08109BFF8DBB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C064675D-EE7F-4742-96DE-2AE517DE527B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF28C613-799D-4135-977F-3F5063697786"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99C281AB-32DB-49D3-8B8C-2883E482C876"
     }
   ],
   "name": "popup",
@@ -74,7 +78,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
