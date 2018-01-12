@@ -32,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "20134D64-EBAE-43AC-80EF-533FAF53F62E"
+    }
   ],
   "name": "symbol_notice_TBD",
   "nameIsFixed": true,

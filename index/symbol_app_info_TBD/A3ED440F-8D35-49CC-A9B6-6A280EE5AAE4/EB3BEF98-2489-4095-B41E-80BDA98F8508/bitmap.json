@@ -1,6 +1,7 @@
 {
-  "_class": "page",
-  "do_objectID": "965F23DB-9911-41D7-95BF-B9B098F89325",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "EB3BEF98-2489-4095-B41E-80BDA98F8508",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,35 +11,27 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "constrainProportions": true,
+    "height": 210,
+    "width": 320,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -586,
-    "guides": [
-    ]
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/2eb8770605ce0476913c8091afef9eeab44756c1",
+    "_ref_class": "MSImageData"
   },
-  "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "82E93365-FEA2-4282-BA98-AE9EDE71D0A2"
-    }
-  ],
-  "name": "symbol_view_uploaded comments_TBD",
-  "nameIsFixed": true,
+  "name": "PYH2013081802230001300(0)",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -48,11 +41,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -332,
-    "guides": [
-    ]
   }
 }
