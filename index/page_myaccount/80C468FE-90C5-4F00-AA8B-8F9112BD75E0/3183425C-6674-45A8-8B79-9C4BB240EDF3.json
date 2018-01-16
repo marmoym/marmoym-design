@@ -25,9 +25,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 559,
-  "masterInfluenceEdgeMaxYPadding": 33,
-  "masterInfluenceEdgeMinXPadding": 1026,
-  "masterInfluenceEdgeMinYPadding": 113,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 8,
+  "masterInfluenceEdgeMinYPadding": 11,
   "name": "accountinfo",
   "nameIsFixed": false,
   "overrideValues": [

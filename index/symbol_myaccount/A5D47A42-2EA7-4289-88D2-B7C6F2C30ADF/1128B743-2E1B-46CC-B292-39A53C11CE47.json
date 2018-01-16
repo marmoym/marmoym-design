@@ -16,7 +16,7 @@
     "height": 50,
     "width": 320,
     "x": 0,
-    "y": 567
+    "y": 639
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -37,7 +37,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

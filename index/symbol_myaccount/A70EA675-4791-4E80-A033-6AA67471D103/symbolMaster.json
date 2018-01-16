@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 70,
+  "changeIdentifier": 77,
   "do_objectID": "A70EA675-4791-4E80-A033-6AA67471D103",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,6 +54,10 @@
     {
       "class": "symbolInstance",
       "id": "1BE4F80D-925A-4910-A56C-EC6DDFE07997"
+    },
+    {
+      "class": "text",
+      "id": "59D8AC94-F275-420D-B151-6A616AF8B68E"
     }
   ],
   "name": "accntinfo_masthead_txt",
