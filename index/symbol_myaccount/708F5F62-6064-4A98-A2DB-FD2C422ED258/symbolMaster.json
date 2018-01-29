@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 759,
+  "changeIdentifier": 908,
   "do_objectID": "708F5F62-6064-4A98-A2DB-FD2C422ED258",
   "exportOptions": {
     "_class": "exportOptions",
@@ -46,6 +46,10 @@
     {
       "class": "symbolInstance",
       "id": "06C033FF-BDBF-4331-AF01-05AA22D331C1"
+    },
+    {
+      "class": "text",
+      "id": "D7BC1434-47B5-4D39-9F2D-CE64B9D5DE3A"
     }
   ],
   "name": "accountinfo_nicknameheader",

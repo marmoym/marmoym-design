@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "75EB911C-CA45-4352-8024-C85719A7D6C8",
+  "do_objectID": "A524A3F4-021F-4EE1-B0BC-7679745B3CD2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -34,11 +34,7 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "80C468FE-90C5-4F00-AA8B-8F9112BD75E0"
-    },
-    {
-      "class": "artboard",
-      "id": "72C7A21B-CD6B-4699-B3E0-C66D901C0262"
+      "id": "5657168D-EA82-4F05-BFC5-C5CE901AAE3C"
     }
   ],
   "name": "page_myaccount",
@@ -49,6 +45,17 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -332,
+    "guides": [
+    ]
+  }
+}
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
